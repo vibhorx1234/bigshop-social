@@ -92,7 +92,7 @@ function renderHTML() {
 
   <!-- HERO -->
   <div class="hero">
-    <img class="hero__img" src="/public/images/store-banner.jpg" alt="Big Shop LG Electronics Store Front" onerror="this.style.display='none'" />
+    <img class="hero__img" src="/public/images/store-banner.jpeg" alt="Big Shop LG Electronics Store Front" onerror="this.style.display='none'" />
     <div class="hero__overlay"></div>
   </div>
 
